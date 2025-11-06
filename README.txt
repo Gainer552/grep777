@@ -13,13 +13,13 @@ saved to a timestamped .txt report for auditing or triage.
 
 FEATURES
 
-✔ Scans core system directories: /bin, /sbin, /usr, /etc, /var, /lib, /home.  
-✔ Flags all files and directories with world-writable permissions (-0002).
-✔ Displays full contextual info: path, owner, type, size, modified date.
-✔ Color-coded terminal output for quick triage.
-✔ Writes full results to timestamped .txt logs. 
-✔ No dependencies — pure Bash + coreutils
-✔ Fast and safe — Read-only analysis.
+- Scans core system directories: /bin, /sbin, /usr, /etc, /var, /lib, /home.  
+- Flags all files and directories with world-writable permissions (-0002).
+- Displays full contextual info: path, owner, type, size, modified date.
+- Color-coded terminal output for quick triage.
+- Writes full results to timestamped .txt logs. 
+- No dependencies — pure Bash + coreutils
+- Fast and safe — Read-only analysis.
 
 USAGE
 
